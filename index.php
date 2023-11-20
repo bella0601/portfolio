@@ -8,7 +8,7 @@
 </head>
 <body>
     <section>
-        <h1 class>ポートフォリオ</h1>
+        <h1 class>私のポートフォリオ</h1>
     </section>
 </body>
 </html>
